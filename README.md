@@ -1,5 +1,5 @@
 # Data Science and Big Data Overview Training
-This repository contains Jupyter notebooks and associated data for the District Data Labs (DDL) introductory training on data science and big data.
+This repository contains Jupyter notebooks and associated data for the [District Data Labs](https://www.districtdatalabs.com/) introductory training on data science and big data.
 
 ## Requirements
 
