@@ -17,6 +17,8 @@ This repository contains the following notebooks:
 * `supervised_learning.ipynb`: a notebook demonstrating supervised learning techniques on baseball player statistics
 * `data_collection.ipynb`: a notebook demonstrating data acquisition through webscraping public speeches by the U.S. Secretary of Defense
 * `unsupervised_learning.ipynb`: a notebook demonstrating unsupervised learning (clustering) on the public speeches referenced above
+* `string_matching.ipynb`: a notebook demonstrating techniques for entity resolution using string matching
+* `elasticsearch_overview.ipynb`: a notebook demonstrating how to interact with an Elasticsearch cluster (requires access to Elasticsearch either remotely or locally--using Docker, etc.)
 
 
 ## Data
